@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/966.f0bdf20f.chunk.js","mappings":"+KAAe,SAASA,IACtB,OACE,wCAEH,C","sources":["pages/ProductPage/SearchPage/SearchPage.jsx"],"sourcesContent":["export default function SearchPage() {\r\n  return (\r\n    <div>Search Page</div>\r\n  )\r\n}\r\n"],"names":["SearchPage"],"sourceRoot":""}

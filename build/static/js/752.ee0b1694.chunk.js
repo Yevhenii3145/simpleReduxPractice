@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_router_1=self.webpackChunkreact_router_1||[]).push([[752],{8752:function(e,r,t){t.r(r),t.d(r,{default:function(){return n}});var u=t(184);function n(){return(0,u.jsx)("div",{children:"Add Page"})}}}]);
+//# sourceMappingURL=752.ee0b1694.chunk.js.map

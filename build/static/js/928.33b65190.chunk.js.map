@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/928.33b65190.chunk.js","mappings":"+KAAe,SAASA,IACtB,OACE,sCAEH,C","sources":["pages/ProductPage/ListPage/ListPage.jsx"],"sourcesContent":["export default function ListPage() {\r\n  return (\r\n    <div>List Page</div>\r\n  )\r\n}\r\n"],"names":["ListPage"],"sourceRoot":""}
